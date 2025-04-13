@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "85ccbcef930b1c0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd32867d7eac7099",
+        "type": "split",
+        "children": [
+          {
+            "id": "63efc99def6bdb60",
+            "type": "tabs",
+            "dimension": 77.51436781609195,
+            "children": [
+              {
+                "id": "c28f2363a98071fd",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1c0855a3772c9094",
+            "type": "tabs",
+            "dimension": 22.485632183908045,
+            "children": [
+              {
+                "id": "dc6e11156a17e8f2",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "fe616bc621d1cfb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8356ce830e4f8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fffd9aa19434b3fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "32de5e14101427f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0636e4374830b551",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6673881be0b91567",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c330d1743f1b5dcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7941f12f9720d6b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2af6e47992a1e7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b795bb0ca47bbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign Events/Key Missions/3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3"
+            }
+          },
+          {
+            "id": "9e82c18c176f6643",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Background/The Planar Collision.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Planar Collision"
+            }
+          },
+          {
+            "id": "25742e2f0f2b6fd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c80047b89de38250",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Background/The Planar Collision.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Planar Collision"
+            }
+          },
+          {
+            "id": "cfca5585cdd69821",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bf8356ce830e4f8c",
+  "lastOpenFiles": [
+    "Locations/The Boundary/The Boundary.md",
+    "Key People/Location Specific/The Boundary/Varashiel.md",
+    "Campaign Events/Key Missions/3.md",
+    "Key People/Location Specific/The Boundary/Assets/ChatGPT Image Apr 13, 2025, 02_04_32 PM.png",
+    "Key People/Location Specific/The Boundary/Lady Emberlynn.md",
+    "Key People/Location Specific/The Boundary/Assets/ChatGPT Image Apr 13, 2025, 01_55_01 PM.png",
+    "Key People/Location Specific/The Boundary/Assets",
+    "GPT Prompts/GPT Prompts.md",
+    "Locations/Hastellen/Mechanica/Mechanica.md",
+    "Key People/Hondo Ganzit.md",
+    "Key People/Location Specific/The Boundary",
+    "Key People/Location Specific",
+    "Key People/Alys Baird.md",
+    "Locations/Untitled.md",
+    "Locations/The Boundary",
+    "ChatGPT Image Mar 30, 2025, 04_38_50 PM.png",
+    "ChatGPT Image Mar 30, 2025, 05_15_47 PM.png",
+    "Locations/Hastellen/Mechanica",
+    "Locations/Hastellen",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour.md",
+    "Locations",
+    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 04_13_27 PM.png",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Warehouse 6 Description.md",
+    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 02_02_53 PM.png",
+    "Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_54_02 PM.png",
+    "ChatGPT Image Mar 30, 2025, 09_53_19 PM.png",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Harbour Market Description.md",
+    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_34_26 PM.png",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Sirens Call Description.md",
+    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_29_17 PM.png",
+    "Locations/Veyluna/Veyluna/Assets",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Docks Description.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Trident Consortium Warehouses.md",
+    "Background/The Planar Collision.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/The Maze Description.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/The Heights Description.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Harbor Temple Description.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Habormasters Office Description.md",
+    "Locations/Talon Cay/St. Forseth/Fort Forseth.md",
+    "Locations/Talon Cay/St. Forseth/Town.md",
+    "Campaign Events/Key Missions/2.md",
+    "Veyluna/Veyluna/Veyluna Harbour Assets/Harbour Descriptions.md",
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets",
+    "Factions/Golarion.md",
+    "Locations/Veyluna/Veyluna"
+  ]
+}
