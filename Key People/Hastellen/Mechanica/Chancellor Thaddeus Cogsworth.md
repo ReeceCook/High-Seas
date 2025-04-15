@@ -1,0 +1,1 @@
+A stern-faced dwarf with a mechanical monocle and an elaborate beard adorned with tiny gears. He's clearly worried beneath his formal demeanor.![[ChatGPT Image Apr 13, 2025, 04_10_49 PM.png]]

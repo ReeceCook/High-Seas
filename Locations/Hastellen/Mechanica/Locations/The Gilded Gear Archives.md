@@ -1,0 +1,4 @@
+![[ChatGPT Image Apr 14, 2025, 03_40_23 PM.png]]
+>You step into a cavernous hall lit by golden shafts of light pouring through stained glass skylights. Towering shelves spiral upward like the gears of a great clock, packed edge-to-edge with tomes, schematics, and ancient scrolls. A central archive, shaped like a massive gear itself, dominates the room—its circular frame lined with spinning brass teeth, slowly rotating to reveal different volumes by mechanism rather than hand.
+
+>Dwarven archivists bustle about in hooded robes, their footsteps muffled by thick rugs etched with arcane diagrams. The air hums faintly with magical preservation fields, and every sound—every creak of leather bindings and hiss of steam—feels reverent. Above you, etched into a beam of polished bronze, are the words: _“Through Knowledge, We Endure.”_

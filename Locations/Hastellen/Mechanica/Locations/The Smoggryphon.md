@@ -1,0 +1,4 @@
+![[ChatGPT Image Apr 15, 2025, 07_49_18 PM.png]]
+>As you duck through a narrow access tunnel barely wider than your shoulders, the clatter of gears and the hiss of steam grow distant. A rusted hatch swings open, revealing a dimly lit, low-ceilinged room carved into the ventilation systems of the industrial complex. Lanterns flicker beneath soot-streaked pipes, casting warm, golden light over worn tables and hunched figures.
+
+>This is **The Smoggryphon**—a speakeasy for those who want to be forgotten. Smugglers sip grog beside off-duty guards, and the air is thick with the scent of oil, smoke, and secrets. Overhead, gears turn slowly, as if keeping time with the whispers in the corners. No one here asks questions unless they’re paid to.

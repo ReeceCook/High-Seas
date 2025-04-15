@@ -1,0 +1,4 @@
+![[ChatGPT Image Apr 14, 2025, 03_45_50 PM.png]]
+>The chamber before you opens into a grand, circular hall beneath a magnificent stained-glass dome. Sunlight streams through in vibrant hues—reds, greens, and blues—casting shifting patterns across the brass-inlaid floor. The walls spiral upward in concentric tiers of seating, each level crowded with dwarves in formal robes, their eyes fixed on the central platform.
+
+>At the heart of the chamber stands a raised dais, upon which a strange, floating orb pulses softly with arcane energy. Massive gears encircle the hall like decorative ribs of some colossal mechanism, humming with quiet purpose. Here, innovation is judged not by ambition alone, but by persuasion, politics, and pageantry.

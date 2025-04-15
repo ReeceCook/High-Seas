@@ -1,0 +1,1 @@
+Head of the Hastellen Security Forces, suspicious of the Golarions and doubtful of the players' abilities.![[ChatGPT Image Apr 13, 2025, 04_16_00 PM.png]]

@@ -1,0 +1,4 @@
+![[ChatGPT Image Apr 15, 2025, 03_23_53 PM.png]]
+>The air thickens with the heat of a hundred forges as you enter the Crucible Works. Massive blast furnaces tower above like obsidian monoliths, their interiors glowing white-hot with liquid flame. Sparks cascade from platforms where dwarven smiths, clad in soot-blackened armor, hammer away at glowing ore—Manavine, raw and unstable, pulsing faintly with arcane energy.
+
+>Overhead, catwalks crisscross like veins of brass and iron, and conveyor belts ferry ore through churning grinders and smelters. A towering automaton, its eyes glowing like embers, stomps methodically between furnaces, ensuring security with cold precision. Every clang of hammer on metal echoes like a heartbeat in the bowels of the city

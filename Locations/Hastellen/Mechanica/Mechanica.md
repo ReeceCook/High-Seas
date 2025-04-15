@@ -4,9 +4,9 @@
 
 **Use for: Political interactions, intrigue, noble-focused quests**
 
-- **Municipal Authority Building:** Where the party meets Chancellor Cogsworth. Includes administrative offices, the Council Chamber (where the Guildmasters and Engineers convene), and the Chancellor’s residence.
-- **The Gilded Gear Archives:** A vast library and vault of technical blueprints, magical-tech research, and historical treaties. Guards and knowledge keepers are strict, but knowledge is power here.
-- **The Spiraled Assembly Hall:** A domed debating chamber where engineers present innovations to win government funding or guild recognition. Could be a site for social/political events.
+- **[[Municipal Authority Building]]:** Where the party meets Chancellor Cogsworth. Includes administrative offices, the Council Chamber (where the Guildmasters and Engineers convene), and the Chancellor’s residence.
+- **[[The Gilded Gear Archives]]**: A vast library and vault of technical blueprints, magical-tech research, and historical treaties. Guards and knowledge keepers are strict, but knowledge is power here.
+- **[[The Spiraled Assembly Hall]]:** A domed debating chamber where engineers present innovations to win government funding or guild recognition. Could be a site for social/political events.
     
 **Future Hook:** A rival inventor petitions for research funding that Emberlynn and Varashiel would have otherwise received—leading to sabotage, espionage, or theft.
 
@@ -14,10 +14,10 @@
 
 **Use for: Invention, crafting, social unrest, criminal underbelly**
 
-- **The Crucible Works:** A sprawling forge and refinery complex for Manavine processing. High security. Sparks fly constantly from blast furnaces and foundries.
-- **Automata Assembly Hall Nine:** Where new automatons are constructed. Players might assist with a runaway unit or be invited to observe (or sabotage?) a demonstration.
-- **Scrapwell Tinker’s Lane:** A narrow alley of small workshops, hobbyist garages, and unauthorized inventors. Young rebels and “Free Gears” sympathizers hang out here.
-- **The Smoggryphon:** A dingy speakeasy hidden in a ventilation shaft behind a gear press. Known to be a neutral meeting ground for smugglers, rebels, and off-duty guards.
+- **[[The Crucible Works]]:** A sprawling forge and refinery complex for Manavine processing. High security. Sparks fly constantly from blast furnaces and foundries.
+- **[[Automata Assembly Hall Nine]]:** Where new automatons are constructed. Players might assist with a runaway unit or be invited to observe (or sabotage?) a demonstration.
+- **[[Scrapwell Tinker’s Lane]]:** A narrow alley of small workshops, hobbyist garages, and unauthorized inventors. Young rebels and “Free Gears” sympathizers hang out here.
+- **[[The Smoggryphon]]:** A dingy speakeasy hidden in a ventilation shaft behind a gear press. Known to be a neutral meeting ground for smugglers, rebels, and off-duty guards.
     
 **Future Hook:** A “Free Gears” member gives the party a prototype tech-magic hybrid device to smuggle out—or test under pressure.
 

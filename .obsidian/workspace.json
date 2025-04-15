@@ -4,61 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fd32867d7eac7099",
-        "type": "split",
-        "children": [
-          {
-            "id": "63efc99def6bdb60",
-            "type": "tabs",
-            "dimension": 77.51436781609195,
-            "children": [
-              {
-                "id": "c28f2363a98071fd",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          },
-          {
-            "id": "1c0855a3772c9094",
-            "type": "tabs",
-            "dimension": 22.485632183908045,
-            "children": [
-              {
-                "id": "dc6e11156a17e8f2",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "fe616bc621d1cfb5",
+        "id": "1d1cd9243e1760ff",
         "type": "tabs",
         "children": [
           {
-            "id": "bf8356ce830e4f8c",
+            "id": "fa964ed9f686b687",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hastellen/Mechanica/Mechanica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mechanica"
+            }
+          },
+          {
+            "id": "76b854de09f7e875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hastellen/Mechanica/Mechanica.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,52 +194,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf8356ce830e4f8c",
+  "active": "76b854de09f7e875",
   "lastOpenFiles": [
-    "Locations/The Boundary/The Boundary.md",
-    "Key People/Location Specific/The Boundary/Varashiel.md",
-    "Campaign Events/Key Missions/3.md",
-    "Key People/Location Specific/The Boundary/Assets/ChatGPT Image Apr 13, 2025, 02_04_32 PM.png",
-    "Key People/Location Specific/The Boundary/Lady Emberlynn.md",
-    "Key People/Location Specific/The Boundary/Assets/ChatGPT Image Apr 13, 2025, 01_55_01 PM.png",
-    "Key People/Location Specific/The Boundary/Assets",
-    "GPT Prompts/GPT Prompts.md",
+    "Locations/Hastellen/Mechanica/Locations/The Smoggryphon.md",
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 07_49_18 PM.png",
     "Locations/Hastellen/Mechanica/Mechanica.md",
+    "Locations/Hastellen/Mechanica/Locations/Scrapwell Tinker’s Lane.md",
+    "Pasted image 20250330215015.png",
+    "ChatGPT Image Mar 30, 2025, 09_53_19 PM.png",
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 14, 2025, 02_44_06 PM.png",
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 05_47_47 PM.png",
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_32_26 PM.png",
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_23_53 PM.png",
+    "ChatGPT Image Mar 30, 2025, 04_38_50 PM.png",
+    "ChatGPT Image Mar 30, 2025, 09_43_39 PM.png",
+    "ChatGPT Image Mar 30, 2025, 09_43_39 PM 1.png",
+    "Locations/Hastellen/Mechanica/Locations/Automata Assembly Hall Nine.md",
+    "Locations/Hastellen/Mechanica/Locations/The Crucible Works.md",
+    "Locations/Hastellen/Mechanica/Locations/The Spiraled Assembly Hall.md",
+    "Locations/Hastellen/Mechanica/Locations/The Gilded Gear Archives.md",
+    "Locations/Hastellen/Mechanica/Locations/Municipal Authority Building.md",
+    "Locations/Hastellen/Mechanica/Locations/Assets",
+    "Locations/Hastellen/Mechanica/Locations",
+    "Assets",
+    "GPT Prompts/GPT Prompts.md",
+    "Campaign Events/Side Missions/The Smuggler's Last Score.md",
+    "Campaign Events/Side Missions/Assets",
+    "Key People/Hastellen/Mechanica/Captain Brunhilde Steelwright.md",
+    "Campaign Events/Key Missions/3.md",
+    "Campaign Events/Side Missions",
+    "Campaign Events/Untitled.md",
+    "Campaign Events/Key Missions/Assets",
+    "Key People/Hastellen/Mechanica/Prime Engineer Ferris Valveturner.md",
+    "Key People/Hastellen/Mechanica/Chancellor Thaddeus Cogsworth.md",
+    "Key People/Hastellen/Mechanica/Assets",
+    "Campaign Events/Key Missions/2.md",
+    "Key People/Golarian",
+    "Key People/Hastellen/Mechanica",
+    "Key People/Hastellen",
+    "Key People/Untitled.md",
+    "Key People/Location Specific/The Boundary/Lady Emberlynn.md",
+    "Key People/Location Specific/The Boundary/Varashiel.md",
+    "Locations/The Boundary/The Boundary.md",
     "Key People/Hondo Ganzit.md",
-    "Key People/Location Specific/The Boundary",
-    "Key People/Location Specific",
     "Key People/Alys Baird.md",
     "Locations/Untitled.md",
-    "Locations/The Boundary",
-    "ChatGPT Image Mar 30, 2025, 04_38_50 PM.png",
-    "ChatGPT Image Mar 30, 2025, 05_15_47 PM.png",
-    "Locations/Hastellen/Mechanica",
-    "Locations/Hastellen",
     "Locations/Veyluna/Veyluna/Veyluna Harbour.md",
-    "Locations",
-    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 04_13_27 PM.png",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Warehouse 6 Description.md",
-    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 02_02_53 PM.png",
-    "Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_54_02 PM.png",
-    "ChatGPT Image Mar 30, 2025, 09_53_19 PM.png",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Harbour Market Description.md",
-    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_34_26 PM.png",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Sirens Call Description.md",
-    "Locations/Veyluna/Veyluna/Assets/ChatGPT Image Apr 7, 2025, 01_29_17 PM.png",
-    "Locations/Veyluna/Veyluna/Assets",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Docks Description.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Trident Consortium Warehouses.md",
-    "Background/The Planar Collision.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/The Maze Description.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/The Heights Description.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Harbor Temple Description.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Habormasters Office Description.md",
-    "Locations/Talon Cay/St. Forseth/Fort Forseth.md",
-    "Locations/Talon Cay/St. Forseth/Town.md",
-    "Campaign Events/Key Missions/2.md",
-    "Veyluna/Veyluna/Veyluna Harbour Assets/Harbour Descriptions.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets",
-    "Factions/Golarion.md",
-    "Locations/Veyluna/Veyluna"
+    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Warehouse 6 Description.md"
   ]
 }
