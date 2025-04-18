@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hastellen/Mechanica/Mechanica.md",
+                "file": "Factions/Faction Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanica"
+              "title": "Faction Overview"
+            }
+          },
+          {
+            "id": "60e08ec277afff47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Abyssal Tide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Abyssal Tide"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,52 +208,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76b854de09f7e875",
+  "active": "60e08ec277afff47",
   "lastOpenFiles": [
+    "Factions/Golarion.md",
+    "Factions/The Abyssal Tide.md",
+    "Factions/Faction Overview.md",
+    "Campaign Events/Key Missions/3.md",
+    "Campaign Events/Key Missions/2.md",
+    "Locations/Hastellen/Mechanica/Mechanica.md",
+    "Welcome.md",
+    "Locations/Talon Cay/St. Forseth/Assets/Pasted image 20250330215015.png",
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 04_38_50 PM.png",
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_43_39 PM.png",
+    "Locations/Talon Cay/St. Forseth/Assets",
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_53_19 PM.png",
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_43_39 PM 1.png",
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 05_15_47 PM.png",
+    "Locations/Hastellen/Mechanica/Locations/The Spiraled Assembly Hall.md",
+    "GPT Prompts/GPT Prompts.md",
+    "Campaign Events/Campaign Timeline.md",
+    "Campaign Events/Key Missions/1.md",
     "Locations/Hastellen/Mechanica/Locations/The Smoggryphon.md",
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 07_49_18 PM.png",
-    "Locations/Hastellen/Mechanica/Mechanica.md",
     "Locations/Hastellen/Mechanica/Locations/Scrapwell Tinker’s Lane.md",
-    "Pasted image 20250330215015.png",
-    "ChatGPT Image Mar 30, 2025, 09_53_19 PM.png",
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 14, 2025, 02_44_06 PM.png",
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 05_47_47 PM.png",
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_32_26 PM.png",
-    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_23_53 PM.png",
-    "ChatGPT Image Mar 30, 2025, 04_38_50 PM.png",
-    "ChatGPT Image Mar 30, 2025, 09_43_39 PM.png",
-    "ChatGPT Image Mar 30, 2025, 09_43_39 PM 1.png",
     "Locations/Hastellen/Mechanica/Locations/Automata Assembly Hall Nine.md",
     "Locations/Hastellen/Mechanica/Locations/The Crucible Works.md",
-    "Locations/Hastellen/Mechanica/Locations/The Spiraled Assembly Hall.md",
     "Locations/Hastellen/Mechanica/Locations/The Gilded Gear Archives.md",
     "Locations/Hastellen/Mechanica/Locations/Municipal Authority Building.md",
     "Locations/Hastellen/Mechanica/Locations/Assets",
     "Locations/Hastellen/Mechanica/Locations",
     "Assets",
-    "GPT Prompts/GPT Prompts.md",
     "Campaign Events/Side Missions/The Smuggler's Last Score.md",
     "Campaign Events/Side Missions/Assets",
     "Key People/Hastellen/Mechanica/Captain Brunhilde Steelwright.md",
-    "Campaign Events/Key Missions/3.md",
     "Campaign Events/Side Missions",
     "Campaign Events/Untitled.md",
     "Campaign Events/Key Missions/Assets",
     "Key People/Hastellen/Mechanica/Prime Engineer Ferris Valveturner.md",
     "Key People/Hastellen/Mechanica/Chancellor Thaddeus Cogsworth.md",
     "Key People/Hastellen/Mechanica/Assets",
-    "Campaign Events/Key Missions/2.md",
     "Key People/Golarian",
     "Key People/Hastellen/Mechanica",
-    "Key People/Hastellen",
     "Key People/Untitled.md",
     "Key People/Location Specific/The Boundary/Lady Emberlynn.md",
     "Key People/Location Specific/The Boundary/Varashiel.md",
-    "Locations/The Boundary/The Boundary.md",
-    "Key People/Hondo Ganzit.md",
-    "Key People/Alys Baird.md",
-    "Locations/Untitled.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour.md",
-    "Locations/Veyluna/Veyluna/Veyluna Harbour Assets/Warehouse 6 Description.md"
+    "Locations/The Boundary/The Boundary.md"
   ]
 }

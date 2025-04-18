@@ -1,0 +1,10 @@
+
+| Name                            | Summary                                                                                       | Origins | Goals | Key Locations | Key People                          | Associated Factions |     |
+| ------------------------------- | --------------------------------------------------------------------------------------------- | ------- | ----- | ------------- | ----------------------------------- | ------------------- | --- |
+| Golarian Navy                   | Responsible for the defense of the Golarian Azura Isles                                       |         |       |               |                                     |                     |     |
+| Golarian Royalty                | Responisble for the Management of the Golarian Azura Isle                                     |         |       |               |                                     |                     |     |
+| Hastellen Navy                  | Responsible for the defence of the Azure Isles                                                |         |       |               |                                     |                     |     |
+| The Boundary Research Institute | Formed By Lady Emerlynn and Varashiel to research the collision                               |         |       |               | [[Lady Emberlynn]]<br>[[Varashiel]] |                     |     |
+| Free Gears Movement             | Formed to oppose the restrictive nature of the research being done by the hastellen goverment |         |       |               |                                     |                     |     |
+| The Abyssal Tide                |                                                                                               |         |       |               |                                     |                     |     |
+| Hondos Crew                     |                                                                                               |         |       |               |                                     |                     |     |
