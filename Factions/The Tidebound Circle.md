@@ -17,7 +17,7 @@ The **Tidebound Circle** is a powerful merchant league and trade syndicate forme
 - **Captain Vessa Nymari** – Owner of the “Azure Crest” shipping fleet and a voice for the independent captains. Known for outmaneuvering both pirates and royal tariffs.
     
 
-> The Circle is governed by a **Rotating Council of Nine**, composed of influential members from different island chains and trade specializations (spice, lumber, shipbuilding, arcane salvage, etc.).
+> The Circle is governed by a Rotating [[The Council of Nine]], composed of influential members from different island chains and trade specializations (spice, lumber, shipbuilding, arcane salvage, etc.).
 
 ---
 
