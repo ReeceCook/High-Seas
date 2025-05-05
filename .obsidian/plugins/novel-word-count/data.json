@@ -242,6 +242,31 @@
         "nonWhitespaceCharacterCount": 164
       }
     },
+    "Key People/Hastellen/Mechanica/Prime Engineer Ferris Valveturner.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 112,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744556924596,
+      "modifiedDate": 1744557073457,
+      "sizeInBytes": 128,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 128,
+        "nonWhitespaceCharacterCount": 112
+      }
+    },
     "Key People/Hastellen/Mechanica/Captain Brunhilde Steelwright.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -292,31 +317,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Key People/Hastellen/Mechanica/Prime Engineer Ferris Valveturner.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 112,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744556924596,
-      "modifiedDate": 1744557073457,
-      "sizeInBytes": 128,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 128,
-        "nonWhitespaceCharacterCount": 112
-      }
-    },
     "Key People/Golarian/Alys Baird.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -342,56 +342,6 @@
         "nonWhitespaceCharacterCount": 1084
       }
     },
-    "GPT Prompts/GPT Prompts.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 401,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.3366666666666667,
-      "characterCount": 5254,
-      "nonWhitespaceCharacterCount": 3558,
-      "readingTimeInMinutes": 1.5132075471698114,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744553842635,
-      "modifiedDate": 1744637860516,
-      "sizeInBytes": 5256,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.3366666666666667,
-        "wordCount": 401,
-        "characterCount": 5254,
-        "nonWhitespaceCharacterCount": 3558
-      }
-    },
-    "GPT Prompts/GPT Factions.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 733,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.4433333333333334,
-      "characterCount": 5238,
-      "nonWhitespaceCharacterCount": 4423,
-      "readingTimeInMinutes": 2.7660377358490567,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745054534363,
-      "modifiedDate": 1745059169122,
-      "sizeInBytes": 5288,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.4433333333333334,
-        "wordCount": 733,
-        "characterCount": 5238,
-        "nonWhitespaceCharacterCount": 4423
-      }
-    },
     "Locations/Veyluna/Veyluna Centre/Veyluna Centre.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -415,31 +365,6 @@
         "wordCount": 355,
         "characterCount": 2444,
         "nonWhitespaceCharacterCount": 2054
-      }
-    },
-    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 973,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.243333333333333,
-      "characterCount": 6983,
-      "nonWhitespaceCharacterCount": 5836,
-      "readingTimeInMinutes": 3.671698113207547,
-      "linkCount": 9,
-      "embedCount": 4,
-      "aliases": null,
-      "createdDate": 1744553842663,
-      "modifiedDate": 1744038827864,
-      "sizeInBytes": 6985,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.243333333333333,
-        "wordCount": 973,
-        "characterCount": 6983,
-        "nonWhitespaceCharacterCount": 5836
       }
     },
     "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Warehouse 6 Description.md": {
@@ -492,31 +417,6 @@
         "nonWhitespaceCharacterCount": 490
       }
     },
-    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/The Heights Description.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 91,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.30333333333333334,
-      "characterCount": 594,
-      "nonWhitespaceCharacterCount": 504,
-      "readingTimeInMinutes": 0.3433962264150943,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744553842680,
-      "modifiedDate": 1743963880679,
-      "sizeInBytes": 594,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.30333333333333334,
-        "wordCount": 91,
-        "characterCount": 594,
-        "nonWhitespaceCharacterCount": 504
-      }
-    },
     "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/The Maze Description.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -565,6 +465,56 @@
         "wordCount": 103,
         "characterCount": 595,
         "nonWhitespaceCharacterCount": 493
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/The Heights Description.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 91,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 594,
+      "nonWhitespaceCharacterCount": 504,
+      "readingTimeInMinutes": 0.3433962264150943,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744553842680,
+      "modifiedDate": 1743963880679,
+      "sizeInBytes": 594,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.30333333333333334,
+        "wordCount": 91,
+        "characterCount": 594,
+        "nonWhitespaceCharacterCount": 504
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Habormasters Office Description.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 96,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.32,
+      "characterCount": 634,
+      "nonWhitespaceCharacterCount": 539,
+      "readingTimeInMinutes": 0.3622641509433962,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744553842676,
+      "modifiedDate": 1743963705476,
+      "sizeInBytes": 638,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.32,
+        "wordCount": 96,
+        "characterCount": 634,
+        "nonWhitespaceCharacterCount": 539
       }
     },
     "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Harbour Market Description.md": {
@@ -617,31 +567,6 @@
         "nonWhitespaceCharacterCount": 545
       }
     },
-    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Habormasters Office Description.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 96,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.32,
-      "characterCount": 634,
-      "nonWhitespaceCharacterCount": 539,
-      "readingTimeInMinutes": 0.3622641509433962,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744553842676,
-      "modifiedDate": 1743963705476,
-      "sizeInBytes": 638,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.32,
-        "wordCount": 96,
-        "characterCount": 634,
-        "nonWhitespaceCharacterCount": 539
-      }
-    },
     "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Docks Description.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -665,6 +590,31 @@
         "wordCount": 100,
         "characterCount": 582,
         "nonWhitespaceCharacterCount": 483
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 973,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.243333333333333,
+      "characterCount": 6983,
+      "nonWhitespaceCharacterCount": 5836,
+      "readingTimeInMinutes": 3.671698113207547,
+      "linkCount": 9,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1744553842663,
+      "modifiedDate": 1744038827864,
+      "sizeInBytes": 6985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.243333333333333,
+        "wordCount": 973,
+        "characterCount": 6983,
+        "nonWhitespaceCharacterCount": 5836
       }
     },
     "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 02_02_53 PM.png": {
@@ -692,31 +642,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 04_13_27 PM.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744553842672,
-      "modifiedDate": 1744038825838,
-      "sizeInBytes": 1879669,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 01_34_26 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -734,6 +659,31 @@
       "createdDate": 1744553842667,
       "modifiedDate": 1744029279386,
       "sizeInBytes": 1785203,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 04_13_27 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744553842672,
+      "modifiedDate": 1744038825838,
+      "sizeInBytes": 1879669,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1042,6 +992,31 @@
         "nonWhitespaceCharacterCount": 629
       }
     },
+    "Locations/Hastellen/Mechanica/Locations/The Crucible Works.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 114,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38,
+      "characterCount": 760,
+      "nonWhitespaceCharacterCount": 646,
+      "readingTimeInMinutes": 0.43018867924528303,
+      "linkCount": 0,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1744727058465,
+      "modifiedDate": 1744727082426,
+      "sizeInBytes": 762,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38,
+        "wordCount": 114,
+        "characterCount": 760,
+        "nonWhitespaceCharacterCount": 646
+      }
+    },
     "Locations/Hastellen/Mechanica/Locations/The Gilded Gear Archives.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1067,29 +1042,29 @@
         "nonWhitespaceCharacterCount": 708
       }
     },
-    "Locations/Hastellen/Mechanica/Locations/The Crucible Works.md": {
+    "Locations/Hastellen/Mechanica/Locations/Municipal Authority Building.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 114,
+      "wordCount": 135,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.38,
-      "characterCount": 760,
-      "nonWhitespaceCharacterCount": 646,
-      "readingTimeInMinutes": 0.43018867924528303,
+      "pageCount": 0.45,
+      "characterCount": 840,
+      "nonWhitespaceCharacterCount": 706,
+      "readingTimeInMinutes": 0.5094339622641509,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
-      "createdDate": 1744727058465,
-      "modifiedDate": 1744727082426,
-      "sizeInBytes": 762,
+      "createdDate": 1744641283306,
+      "modifiedDate": 1744641336336,
+      "sizeInBytes": 844,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.38,
-        "wordCount": 114,
-        "characterCount": 760,
-        "nonWhitespaceCharacterCount": 646
+        "pageCount": 0.45,
+        "wordCount": 135,
+        "characterCount": 840,
+        "nonWhitespaceCharacterCount": 706
       }
     },
     "Locations/Hastellen/Mechanica/Locations/The Smoggryphon.md": {
@@ -1142,32 +1117,7 @@
         "nonWhitespaceCharacterCount": 728
       }
     },
-    "Locations/Hastellen/Mechanica/Locations/Municipal Authority Building.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 135,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45,
-      "characterCount": 840,
-      "nonWhitespaceCharacterCount": 706,
-      "readingTimeInMinutes": 0.5094339622641509,
-      "linkCount": 0,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1744641283306,
-      "modifiedDate": 1744641336336,
-      "sizeInBytes": 844,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.45,
-        "wordCount": 135,
-        "characterCount": 840,
-        "nonWhitespaceCharacterCount": 706
-      }
-    },
-    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_23_53 PM.png": {
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 07_49_18 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -1181,9 +1131,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1744727061826,
-      "modifiedDate": 1744727061827,
-      "sizeInBytes": 1946467,
+      "createdDate": 1744742999481,
+      "modifiedDate": 1744742999482,
+      "sizeInBytes": 2293237,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1217,31 +1167,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 07_49_18 PM.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744742999481,
-      "modifiedDate": 1744742999482,
-      "sizeInBytes": 2293237,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 05_47_47 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1267,31 +1192,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_32_26 PM.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744727569978,
-      "modifiedDate": 1744727569979,
-      "sizeInBytes": 1836314,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 14, 2025, 03_45_50 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -1309,6 +1209,56 @@
       "createdDate": 1744641955058,
       "modifiedDate": 1744641955059,
       "sizeInBytes": 1562931,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_23_53 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744727061826,
+      "modifiedDate": 1744727061827,
+      "sizeInBytes": 1946467,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Hastellen/Mechanica/Locations/Assets/ChatGPT Image Apr 15, 2025, 03_32_26 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744727569978,
+      "modifiedDate": 1744727569979,
+      "sizeInBytes": 1836314,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -1386,10 +1336,10 @@
       "sizeInBytes": 6859,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.06,
-        "wordCount": 18,
-        "characterCount": 120,
-        "nonWhitespaceCharacterCount": 102
+        "pageCount": 2.8233333333333333,
+        "wordCount": 847,
+        "characterCount": 6769,
+        "nonWhitespaceCharacterCount": 5141
       }
     },
     "Locations/Hastellen/Gravesend Atoll/Gravesend Atoll.md": {
@@ -1417,79 +1367,54 @@
         "nonWhitespaceCharacterCount": 3200
       }
     },
-    "Factions/The Tidebound Circle.md": {
+    "GPT Prompts/GPT Prompts.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 512,
+      "wordCount": 401,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.7066666666666668,
-      "characterCount": 4469,
-      "nonWhitespaceCharacterCount": 3602,
-      "readingTimeInMinutes": 1.9320754716981132,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1745055830370,
-      "modifiedDate": 1745503731924,
-      "sizeInBytes": 4501,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.7066666666666668,
-        "wordCount": 512,
-        "characterCount": 4469,
-        "nonWhitespaceCharacterCount": 3602
-      }
-    },
-    "Factions/Faction Overview.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 146,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 3224,
-      "nonWhitespaceCharacterCount": 1216,
-      "readingTimeInMinutes": 0.5509433962264151,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744973195097,
-      "modifiedDate": 1745059265613,
-      "sizeInBytes": 3224,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4866666666666667,
-        "wordCount": 146,
-        "characterCount": 3224,
-        "nonWhitespaceCharacterCount": 1216
-      }
-    },
-    "Factions/The Abyssal Tide.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 526,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7533333333333334,
-      "characterCount": 3672,
-      "nonWhitespaceCharacterCount": 3069,
-      "readingTimeInMinutes": 1.9849056603773585,
+      "pageCount": 1.3366666666666667,
+      "characterCount": 5254,
+      "nonWhitespaceCharacterCount": 3558,
+      "readingTimeInMinutes": 1.5132075471698114,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1744974978771,
-      "modifiedDate": 1744975332472,
-      "sizeInBytes": 3706,
+      "createdDate": 1744553842635,
+      "modifiedDate": 1744637860516,
+      "sizeInBytes": 5256,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.7533333333333334,
-        "wordCount": 526,
-        "characterCount": 3672,
-        "nonWhitespaceCharacterCount": 3069
+        "pageCount": 1.3366666666666667,
+        "wordCount": 401,
+        "characterCount": 5254,
+        "nonWhitespaceCharacterCount": 3558
+      }
+    },
+    "GPT Prompts/GPT Factions.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 733,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.4433333333333334,
+      "characterCount": 5238,
+      "nonWhitespaceCharacterCount": 4423,
+      "readingTimeInMinutes": 2.7660377358490567,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745054534363,
+      "modifiedDate": 1745059169122,
+      "sizeInBytes": 5288,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.4433333333333334,
+        "wordCount": 733,
+        "characterCount": 5238,
+        "nonWhitespaceCharacterCount": 4423
       }
     },
     "Factions/Golarion.md": {
@@ -1517,6 +1442,81 @@
         "nonWhitespaceCharacterCount": 2212
       }
     },
+    "Factions/Faction Overview.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 146,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4866666666666667,
+      "characterCount": 3224,
+      "nonWhitespaceCharacterCount": 1216,
+      "readingTimeInMinutes": 0.5509433962264151,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744973195097,
+      "modifiedDate": 1745059265613,
+      "sizeInBytes": 3224,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4866666666666667,
+        "wordCount": 146,
+        "characterCount": 3224,
+        "nonWhitespaceCharacterCount": 1216
+      }
+    },
+    "Factions/The Tidebound Circle.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 512,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7066666666666668,
+      "characterCount": 4469,
+      "nonWhitespaceCharacterCount": 3602,
+      "readingTimeInMinutes": 1.9320754716981132,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1745055830370,
+      "modifiedDate": 1745503731924,
+      "sizeInBytes": 4501,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7066666666666668,
+        "wordCount": 512,
+        "characterCount": 4469,
+        "nonWhitespaceCharacterCount": 3602
+      }
+    },
+    "Factions/The Abyssal Tide.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 526,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.7533333333333334,
+      "characterCount": 3672,
+      "nonWhitespaceCharacterCount": 3069,
+      "readingTimeInMinutes": 1.9849056603773585,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744974978771,
+      "modifiedDate": 1744975332472,
+      "sizeInBytes": 3706,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.7533333333333334,
+        "wordCount": 526,
+        "characterCount": 3672,
+        "nonWhitespaceCharacterCount": 3069
+      }
+    },
     "Factions/Additional Notes/The Council of Nine.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1542,73 +1542,48 @@
         "nonWhitespaceCharacterCount": 3410
       }
     },
-    "Campaign Events/Side Missions/Assets/ChatGPT Image Apr 14, 2025, 02_29_18 PM.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744637395641,
-      "modifiedDate": 1744637395642,
-      "sizeInBytes": 2996502,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Campaign Events/Side Missions/The Smuggler's Last Score.md": {
+    "Campaign Events/Key Missions/1.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 903,
+      "wordCount": 656,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.01,
-      "characterCount": 6267,
-      "nonWhitespaceCharacterCount": 5232,
-      "readingTimeInMinutes": 3.4075471698113207,
+      "pageCount": 2.1866666666666665,
+      "characterCount": 4534,
+      "nonWhitespaceCharacterCount": 3773,
+      "readingTimeInMinutes": 2.4754716981132074,
       "linkCount": 0,
-      "embedCount": 1,
+      "embedCount": 0,
       "aliases": null,
-      "createdDate": 1744558332183,
-      "modifiedDate": 1744637397667,
-      "sizeInBytes": 6267,
+      "createdDate": 1744553842627,
+      "modifiedDate": 1743497666623,
+      "sizeInBytes": 4534,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 3.01,
-        "wordCount": 903,
-        "characterCount": 6267,
-        "nonWhitespaceCharacterCount": 5232
+        "pageCount": 2.1866666666666665,
+        "wordCount": 656,
+        "characterCount": 4534,
+        "nonWhitespaceCharacterCount": 3773
       }
     },
     "Campaign Events/Key Missions/2.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1387,
+      "wordCount": 1392,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 4.623333333333333,
-      "characterCount": 9595,
-      "nonWhitespaceCharacterCount": 7954,
-      "readingTimeInMinutes": 5.233962264150944,
+      "pageCount": 4.64,
+      "characterCount": 9781,
+      "nonWhitespaceCharacterCount": 8129,
+      "readingTimeInMinutes": 5.252830188679245,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744553842628,
-      "modifiedDate": 1743939153717,
-      "sizeInBytes": 9595,
+      "modifiedDate": 1746479734695,
+      "sizeInBytes": 9781,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.623333333333333,
@@ -1667,48 +1642,73 @@
         "nonWhitespaceCharacterCount": 7259
       }
     },
-    "Campaign Events/Key Missions/1.md": {
+    "Campaign Events/Side Missions/Assets/ChatGPT Image Apr 14, 2025, 02_29_18 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744637395641,
+      "modifiedDate": 1744637395642,
+      "sizeInBytes": 2996502,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Campaign Events/Side Missions/The Smuggler's Last Score.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 656,
+      "wordCount": 903,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.1866666666666665,
-      "characterCount": 4534,
-      "nonWhitespaceCharacterCount": 3773,
-      "readingTimeInMinutes": 2.4754716981132074,
+      "pageCount": 3.01,
+      "characterCount": 6267,
+      "nonWhitespaceCharacterCount": 5232,
+      "readingTimeInMinutes": 3.4075471698113207,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1744553842627,
-      "modifiedDate": 1743497666623,
-      "sizeInBytes": 4534,
+      "createdDate": 1744558332183,
+      "modifiedDate": 1744637397667,
+      "sizeInBytes": 6267,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 2.1866666666666665,
-        "wordCount": 656,
-        "characterCount": 4534,
-        "nonWhitespaceCharacterCount": 3773
+        "pageCount": 3.01,
+        "wordCount": 903,
+        "characterCount": 6267,
+        "nonWhitespaceCharacterCount": 5232
       }
     },
     "Campaign Events/Campaign Timeline.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 446,
+      "wordCount": 450,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4866666666666666,
-      "characterCount": 2486,
-      "nonWhitespaceCharacterCount": 1994,
-      "readingTimeInMinutes": 1.6830188679245284,
+      "pageCount": 1.5,
+      "characterCount": 2584,
+      "nonWhitespaceCharacterCount": 2086,
+      "readingTimeInMinutes": 1.6981132075471699,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1744553842625,
-      "modifiedDate": 1744751291066,
-      "sizeInBytes": 2486,
+      "modifiedDate": 1746476576430,
+      "sizeInBytes": 2584,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 1.4866666666666666,
@@ -1765,6 +1765,56 @@
         "wordCount": 128,
         "characterCount": 766,
         "nonWhitespaceCharacterCount": 634
+      }
+    },
+    "Locations/The Boundary/Planar Distrubance/Planar Disturbance.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 800,
+      "nonWhitespaceCharacterCount": 665,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746478007579,
+      "modifiedDate": 1746479370831,
+      "sizeInBytes": 800,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Random Ideas.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 1,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1746481703473,
+      "modifiedDate": 1746481708988,
+      "sizeInBytes": 1,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }

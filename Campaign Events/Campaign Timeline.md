@@ -33,6 +33,10 @@ They make there way down into the basement and fidn the actual pirate base. Lots
 
 It turns out the ship they have is the key for breaching terrible winds before finding the cache and being able to bring it back and provide energy and magic for the groups to make food water and power.
 
+https://www.czepeku.com/fantasy/maps/ancient-tech-treasury/original-day
+
+Manavine final location
+
 At this point they need to work out who the main culprit is:
 
 
