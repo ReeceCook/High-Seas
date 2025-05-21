@@ -111,10 +111,35 @@
       "sizeInBytes": 525,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 192,
-        "nonWhitespaceCharacterCount": 181
+        "pageCount": 0.10333333333333333,
+        "wordCount": 31,
+        "characterCount": 525,
+        "nonWhitespaceCharacterCount": 484
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 973,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.243333333333333,
+      "characterCount": 6983,
+      "nonWhitespaceCharacterCount": 5836,
+      "readingTimeInMinutes": 3.671698113207547,
+      "linkCount": 9,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1744553842663,
+      "modifiedDate": 1744038827864,
+      "sizeInBytes": 6985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.243333333333333,
+        "wordCount": 973,
+        "characterCount": 6983,
+        "nonWhitespaceCharacterCount": 5836
       }
     },
     "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour Assets/Warehouse 6 Description.md": {
@@ -342,31 +367,6 @@
         "nonWhitespaceCharacterCount": 483
       }
     },
-    "Locations/Veyluna/Veyluna Harbour/Veyluna Harbour.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 973,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.243333333333333,
-      "characterCount": 6983,
-      "nonWhitespaceCharacterCount": 5836,
-      "readingTimeInMinutes": 3.671698113207547,
-      "linkCount": 9,
-      "embedCount": 4,
-      "aliases": null,
-      "createdDate": 1744553842663,
-      "modifiedDate": 1744038827864,
-      "sizeInBytes": 6985,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.243333333333333,
-        "wordCount": 973,
-        "characterCount": 6983,
-        "nonWhitespaceCharacterCount": 5836
-      }
-    },
     "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 04_13_27 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -392,31 +392,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 01_34_26 PM.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744553842667,
-      "modifiedDate": 1744029279386,
-      "sizeInBytes": 1785203,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 02_02_53 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -434,6 +409,31 @@
       "createdDate": 1744553842669,
       "modifiedDate": 1744030985092,
       "sizeInBytes": 2920812,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Veyluna/Veyluna Harbour/Assets/ChatGPT Image Apr 7, 2025, 01_34_26 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744553842667,
+      "modifiedDate": 1744029279386,
+      "sizeInBytes": 1785203,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -642,31 +642,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_43_39 PM 1.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1744553842689,
-      "modifiedDate": 1743367451699,
-      "sizeInBytes": 3399177,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_43_39 PM.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -692,7 +667,7 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 05_15_47 PM.png": {
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 09_43_39 PM 1.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -706,9 +681,9 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1744553842687,
-      "modifiedDate": 1743351364424,
-      "sizeInBytes": 3076118,
+      "createdDate": 1744553842689,
+      "modifiedDate": 1743367451699,
+      "sizeInBytes": 3399177,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -742,6 +717,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Locations/Talon Cay/St. Forseth/Assets/ChatGPT Image Mar 30, 2025, 05_15_47 PM.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1744553842687,
+      "modifiedDate": 1743351364424,
+      "sizeInBytes": 3076118,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Locations/Talon Cay/Skullcap Isle/Skull Cap Isle.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -765,31 +765,6 @@
         "wordCount": 428,
         "characterCount": 3264,
         "nonWhitespaceCharacterCount": 2592
-      }
-    },
-    "Locations/Hastellen/Mechanica/Mechanica.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 619,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.0633333333333335,
-      "characterCount": 4624,
-      "nonWhitespaceCharacterCount": 3948,
-      "readingTimeInMinutes": 2.3358490566037737,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744553842652,
-      "modifiedDate": 1744742973129,
-      "sizeInBytes": 4668,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.0633333333333335,
-        "wordCount": 619,
-        "characterCount": 4624,
-        "nonWhitespaceCharacterCount": 3948
       }
     },
     "Locations/Hastellen/Mechanica/Locations/The Spiraled Assembly Hall.md": {
@@ -1142,6 +1117,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Locations/Hastellen/Mechanica/Mechanica.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 619,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0633333333333335,
+      "characterCount": 4624,
+      "nonWhitespaceCharacterCount": 3948,
+      "readingTimeInMinutes": 2.3358490566037737,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744553842652,
+      "modifiedDate": 1744742973129,
+      "sizeInBytes": 4668,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.0633333333333335,
+        "wordCount": 619,
+        "characterCount": 4624,
+        "nonWhitespaceCharacterCount": 3948
+      }
+    },
     "Locations/Hastellen/Gravesend Atoll/Vandros Sanctum.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1215,6 +1215,56 @@
         "wordCount": 475,
         "characterCount": 3486,
         "nonWhitespaceCharacterCount": 2827
+      }
+    },
+    "Key People/Vey'Zyrenn/Merrow Vexin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 351,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.17,
+      "characterCount": 2415,
+      "nonWhitespaceCharacterCount": 2019,
+      "readingTimeInMinutes": 1.3245283018867924,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1747676297265,
+      "modifiedDate": 1747678415410,
+      "sizeInBytes": 2457,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.17,
+        "wordCount": 351,
+        "characterCount": 2415,
+        "nonWhitespaceCharacterCount": 2019
+      }
+    },
+    "Key People/Vey'Zyrenn/Assets/Pasted image 20250519191333.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747678413401,
+      "modifiedDate": 1747678413403,
+      "sizeInBytes": 2694777,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Key People/Location Specific/The Boundary/Varashiel.md": {
@@ -1442,6 +1492,106 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Key People/Golarian/Professor Thaddeus Greelock.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 640,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.1333333333333333,
+      "characterCount": 4593,
+      "nonWhitespaceCharacterCount": 3879,
+      "readingTimeInMinutes": 2.4150943396226414,
+      "linkCount": 5,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1747674342112,
+      "modifiedDate": 1747675749558,
+      "sizeInBytes": 4639,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.1333333333333333,
+        "wordCount": 640,
+        "characterCount": 4593,
+        "nonWhitespaceCharacterCount": 3879
+      }
+    },
+    "Key People/Golarian/Elenion Virelith.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 190,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6333333333333333,
+      "characterCount": 1392,
+      "nonWhitespaceCharacterCount": 1166,
+      "readingTimeInMinutes": 0.7169811320754716,
+      "linkCount": 1,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1747675575202,
+      "modifiedDate": 1747675773958,
+      "sizeInBytes": 1400,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6333333333333333,
+        "wordCount": 190,
+        "characterCount": 1392,
+        "nonWhitespaceCharacterCount": 1166
+      }
+    },
+    "Key People/Golarian/Assets/Pasted image 20250519182933.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747675773063,
+      "modifiedDate": 1747675773065,
+      "sizeInBytes": 3844074,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Key People/Golarian/Assets/Pasted image 20250519181730.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747675050579,
+      "modifiedDate": 1747675050580,
+      "sizeInBytes": 1906479,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Key People/Golarian/Alys Baird.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1642,31 +1792,6 @@
         "nonWhitespaceCharacterCount": 3410
       }
     },
-    "Campaign Events/Campaign Timeline.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 450,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.5,
-      "characterCount": 2584,
-      "nonWhitespaceCharacterCount": 2086,
-      "readingTimeInMinutes": 1.6981132075471699,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1744553842625,
-      "modifiedDate": 1746476576430,
-      "sizeInBytes": 2584,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.5,
-        "wordCount": 450,
-        "characterCount": 2584,
-        "nonWhitespaceCharacterCount": 2086
-      }
-    },
     "Campaign Events/Side Missions/The Smuggler's Last Score.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1817,6 +1942,31 @@
         "nonWhitespaceCharacterCount": 3773
       }
     },
+    "Campaign Events/Campaign Timeline.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 450,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.5,
+      "characterCount": 2584,
+      "nonWhitespaceCharacterCount": 2086,
+      "readingTimeInMinutes": 1.6981132075471699,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1744553842625,
+      "modifiedDate": 1746476576430,
+      "sizeInBytes": 2584,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.5,
+        "wordCount": 450,
+        "characterCount": 2584,
+        "nonWhitespaceCharacterCount": 2086
+      }
+    },
     "Background/The Planar Collision.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1865,6 +2015,181 @@
         "wordCount": 128,
         "characterCount": 766,
         "nonWhitespaceCharacterCount": 634
+      }
+    },
+    "Locations/Random Locations/Isle of Bristlenest.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 342,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.14,
+      "characterCount": 2455,
+      "nonWhitespaceCharacterCount": 2027,
+      "readingTimeInMinutes": 1.290566037735849,
+      "linkCount": 0,
+      "embedCount": 4,
+      "aliases": null,
+      "createdDate": 1747847573146,
+      "modifiedDate": 1747853445606,
+      "sizeInBytes": 2521,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/Pasted image 20250521181824.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747847904649,
+      "modifiedDate": 1747847904651,
+      "sizeInBytes": 3733371,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/d006c4e5-10b4-4750-93e3-1eee30547e1b.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747848134108,
+      "modifiedDate": 1747848134109,
+      "sizeInBytes": 2657934,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/d006c4e5-10b4-4750-93e3-1eee30547e1b 1.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747848145958,
+      "modifiedDate": 1747848145960,
+      "sizeInBytes": 2657934,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/Pasted image 20250521183355.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747848835598,
+      "modifiedDate": 1747848835602,
+      "sizeInBytes": 3566949,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/Pasted image 20250521183733.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747849053242,
+      "modifiedDate": 1747849053243,
+      "sizeInBytes": 3382107,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Locations/Random Locations/Assets/Pasted image 20250521195044.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1747853444670,
+      "modifiedDate": 1747853444671,
+      "sizeInBytes": 3418538,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     }
   }
